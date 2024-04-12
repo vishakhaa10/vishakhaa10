@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm vishakhaa</h1>
 <h3 align="center">Passionate about data alchemy: turning numbers into insights</h3>
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhaa10&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhaa10" /> </p>
 
 - I’m currently working on **big data**

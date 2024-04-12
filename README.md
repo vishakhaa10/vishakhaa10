@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishakhaa10&show_icons=true&locale=en" alt="vishakhaa10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakhaa10&" alt="vishakhaa10" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishakhaa_sridhar?theme=dark&font=Sumana&ext=heatmap)
+
+[![Vishakhaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishakhaa10&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

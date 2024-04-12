@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 <h1 align="center">Hello, I'm vishakhaa</h1>
 <h3 align="center">Passionate about data alchemy: turning numbers into insights</h3>
 

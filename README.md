@@ -1,3 +1,10 @@
+# Welcome To My GitHub Profile !
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73129634/224562289-98000a83-2356-4daa-9482-a7c63c593ce6.gif" alt="Karan Typer" />
+</div>
+<br/>
 <h1 align="center">Hello, I'm vishakhaa</h1>
 <h3 align="center">Passionate about data alchemy: turning numbers into insights</h3>
 

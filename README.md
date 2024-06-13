@@ -31,6 +31,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishakhaa10&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-(<![LeetCode Stats](https://leetcard.jacoblin.cool/vishakhaa_sridhar?theme=dark&font=Sumana&ext=heatmap)>)
+(<!--![LeetCode Stats](https://leetcard.jacoblin.cool/vishakhaa_sridhar?theme=dark&font=Sumana&ext=heatmap)-->)
 
 [![Vishakhaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishakhaa10&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

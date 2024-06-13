@@ -1,4 +1,3 @@
-# Welcome To My GitHub Profile !
 
 <h1 align="center">Hello, I'm vishakhaa</h1>
 <h3 align="center">Passionate about data alchemy: turning numbers into insights</h3>

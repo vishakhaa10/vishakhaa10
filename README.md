@@ -11,7 +11,7 @@
 
 - Ask me about **data analytics**
 
-- How to reach me **vishakhaasridhar@gamil.com**
+- How to reach me **vishakhaasridhar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
